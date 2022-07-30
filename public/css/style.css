@@ -11,12 +11,12 @@ body {
 }
 
 .module-card:hover {
-    background: rgb(32, 196, 32);
+    background: #3ba9e8;
     color: white;
 }
 
 .module-card:active {
-    background-color: rgb(12, 147, 12);
+    background-color: #329ad6;
 }
 
 .clients-info-cards {
