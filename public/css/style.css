@@ -18,3 +18,9 @@ body {
 .module-card:active {
     background-color: rgb(12, 147, 12);
 }
+
+.clients-info-cards {
+    height: 20rem;
+    max-height: 20rem;
+    overflow-y: scroll;
+}

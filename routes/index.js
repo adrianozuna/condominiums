@@ -9,4 +9,8 @@ router.get('/clientes', (req, res) => {
     res.render('clients')
 })
 
+router.get('/productos', (req, res) => {
+    res.render('products')
+})
+
 module.exports = router
